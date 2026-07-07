@@ -1,6 +1,6 @@
 interface:
   display_name: "Lizhi 概念解析配图"
   short_description: "为神学概念与要理问答生成怪诞清爽、有 Lizhi IP 的解析配图资产"
-  default_prompt: "Use $ian-xiaohei-illustrations 为这段神学概念或要理问答设计并生成 Lizhi 怪诞解析配图。"
+  default_prompt: "Use $lizhi-illustrations 为这段神学概念或要理问答设计并生成 Lizhi 怪诞解析配图。"
 policy:
   allow_implicit_invocation: true

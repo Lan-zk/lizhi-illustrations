@@ -1,5 +1,5 @@
 ---
-name: ian-xiaohei-illustrations
+name: lizhi-illustrations
 description: 生成 Lizhi 风格的中文概念解析配图。用于用户要求为神学概念、要理问答、教义论述、讲章、灵修笔记或其他抽象概念文本生成“怪诞”“Lizhi”“手绘”“解析配图”“概念图解”“配图建议”“shot list”“去标题/改图”等任务；默认使用 Lizhi IP、纯白手绘、少量红橙蓝批注、简洁清爽但天马行空的视觉风格。
 ---
 
